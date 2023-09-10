@@ -19,3 +19,9 @@ h1{
   color: aliceblue;
   margin: 20px;
 }
+a{
+  text-decoration: none;
+  margin: 20px;
+  color: rgb(137, 182, 222);
+  font-weight: bold;
+}
